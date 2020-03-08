@@ -1,4 +1,4 @@
-package com.dibee.cryptolib;
+package com.my.cryptolib;
 
 import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyProperties;
